@@ -37,10 +37,10 @@ The application contains:
 ## 📂 Project Structure
 
 Typing_Test/
-│
-├── typing_test.py
-├── README.md
-└── requirements.txt
+│  
+├── typing_test.py  
+├── README.md  
+└── requirements.txt  
 
 ---
 

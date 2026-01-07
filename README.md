@@ -36,3 +36,50 @@ The application contains:
 
 ## 📂 Project Structure
 
+Typing_Test/
+│
+├── typing_test.py
+├── README.md
+└── requirements.txt
+
+---
+
+
+---
+
+## 🎮 How the Application Works
+
+1. Click **Start** on the welcome screen.  
+2. A random word will appear.  
+3. Type the word and press **Enter**.  
+4. Your score increases for every correct word.  
+5. After 10 words, the result screen is displayed.  
+6. You can click **Continue** to try again or **Exit** to close the app.
+
+---
+
+## 📊 Result Details
+
+- **Score** – Number of correct words typed  
+- **Missed** – Number of incorrect or skipped words  
+- **Time Taken** – Total time spent  
+
+---
+
+## 🧠 Learning Outcomes
+
+- GUI development using Tkinter  
+- Keyboard event handling  
+- Random word generation  
+- Game logic implementation  
+- Real-time UI updates  
+
+---
+
+## 👩‍💻 Author
+
+**Krithika**  
+GitHub: https://github.com/krithika2305  
+
+---
+

@@ -65,6 +65,17 @@ Typing_Test/
 
 ---
 
+## 📸 Project Screenshots
+
+### Home Page
+![Home Page](image1.png)
+
+### Start Game
+![game](image2.png)
+
+### Result
+![Result](image3.png)
+
 ## 🧠 Learning Outcomes
 
 - GUI development using Tkinter  
